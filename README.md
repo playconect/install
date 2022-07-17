@@ -49,4 +49,6 @@ PAINEL WEB - PLAY CONECT ⚡
 wget http://raw.githubusercontent.com/SrCarrara/install/bad/SincAI.sh && chmod +x SincAI.sh && dos2unix SincAI.sh && ./SincAI.sh
 ```
 
- Powered By: <a href="https://t.me/play_conect/">PLAY CONECT</a>.
+```
+Powered By: <a href="https://t.me/play_conect/">PLAY CONECT</a>.
+```
