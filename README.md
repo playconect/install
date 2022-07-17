@@ -51,4 +51,5 @@ wget http://raw.githubusercontent.com/SrCarrara/install/bad/SincAI.sh && chmod +
 
 
  Powered By: <a href="https://t.me/play_conect/">PLAY CONECT</a>.
+ 
 
